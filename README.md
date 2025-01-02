@@ -1,3 +1,11 @@
+
+**Mostafa Modaberi**
+Bachelor's Project in Computer Engineering
+February 2025
+Supervisor: Alireza Akhavanpour
+
+---
+
 # Persian-NER-GUI  
 
 A **graphical user interface (GUI)** for Named Entity Recognition (NER) in Persian text, designed using the **Model-View-Controller (MVC)** structure. Built with **CustomTkinter**, it leverages a **BiLSTM-based NER model** to deliver accurate and efficient entity recognition.
