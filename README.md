@@ -1,8 +1,7 @@
 
 **Mostafa Modaberi**
-Bachelor's Project in Computer Engineering
-February 2025
-Supervisor: Alireza Akhavanpour
+Bachelor's Project in Computer Engineering, 
+February 2025, Supervisor: Alireza Akhavanpour
 
 ---
 
